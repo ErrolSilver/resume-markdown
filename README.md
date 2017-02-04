@@ -14,7 +14,7 @@ Web Developer
 Projects
 -----------
 
-### Pennwell Publishing ([hubs.com](https://hubs.com/))
+### PennWell Publishing ([hubs.com](https://hubs.com/))
 > #### Front-end web development and consultancy.
 > ##### 10/15 - 5/16, 9/16 - 1/17 --- Velir Studios
 > __HTML5, CSS3 (BEM), Angular 1.x, .NET, Sitecore, Telligent Community__
