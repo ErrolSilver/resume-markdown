@@ -68,7 +68,6 @@ Agency History
 Education
 --------------
 > **BSc, Communications Technology** --- Husson University --- Bangor ME
-
-September 2011 - January 2015
+> September 2011 - January 2015
          
 
