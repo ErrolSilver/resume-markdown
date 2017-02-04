@@ -61,7 +61,7 @@ Agency History
 ---------------------
 > **Velir Studios** --- Somerville MA --- September 2015 - Ongoing
 
-> **Boston Interactive** --- Boston MA --- April 2014 - August - 2015
+> **Boston Interactive** --- Boston MA --- April 2014 - August 2015
 
 > **Sephone Interactive Media** --- Bangor ME --- December 2013 - May 2014
 
