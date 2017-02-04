@@ -17,7 +17,7 @@ Projects
 ### PennWell Publishing ([hubs.com](https://hubs.com/))
 > #### Front-end web development and consultancy.
 > ##### 10/15 - 5/16, 9/16 - 1/17 --- Velir Studios
-> __HTML5, CSS3 (BEM), Angular 1.x, .NET, Sitecore, Telligent Community__
+> __HTML5, CSS3 (BEM, SASS), Angular 1.x, Gulp, .NET, Sitecore, Telligent Community__
 > 
  - Worked in an Agile Scrum methodology (SAFe)
  - Completed new social platform, news aggregation timeline, and user registration flow
@@ -27,7 +27,7 @@ Projects
 ### Clinical Mind (engaugemed.com)
 > #### Front-end web development.
 > ##### 6/16 - 8/16 --- Velir Studios
-> __HTML5, CSS3 (BEM),  Angular 1.x, .NET, Sitecore__
+> __HTML5, CSS3 (BEM, SASS), Angular 1.x, Gulp, .NET, Sitecore__
 >
  - Completed new user registration flow, account management, and user directory
  - Utilized Angular to create dynamic search and account management pages
@@ -38,7 +38,7 @@ Projects
 ### Boston Interactive ([bostoninteractive.com](https://bostoninteractive.com))
 > #### Front-end web development, Drupal Development, AWS configuration.
 > ##### 6/15 - 9/15 --- Boston Interactive
-> __HTML5, CSS3 (SMACCS), jQuery, Drupal 7, AWS EC2, AWS RDS__
+> __HTML5, CSS3 (SMACCS, SASS), Grunt, jQuery, Drupal 7, AWS EC2, AWS RDS__
 >
  - General Drupal site configuration (Content types, Views, Webforms, Blocks, Regions)
  - Developed a set of new front-end components
@@ -49,7 +49,7 @@ Projects
 ### Precision Digital ([predig.com)](https://www.predig.com/)
 > #### Front-end web development, Drupal Development.
 > ##### 6/15 - 9/15 --- Boston Interactive
-> __HTML5, CSS3 (SMACCS), jQuery, Drupal 7, Drupal Commerce__
+> __HTML5, CSS3 (SMACCS, SASS), Grunt, jQuery, Drupal 7, Drupal Commerce__
 >
  - General Drupal site configuration (Content types, Views, Webforms, Blocks, Regions)
  - Drupal Commerce specific site configuration.
