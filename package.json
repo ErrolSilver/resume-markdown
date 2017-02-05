@@ -1,0 +1,22 @@
+{
+  "name": "resume-markdown",
+  "version": "1.0.0",
+  "description": "generate that pdf, son",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErrolSilver/resume-markdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErrolSilver/resume-markdown/issues"
+  },
+  "homepage": "https://github.com/ErrolSilver/resume-markdown#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}
