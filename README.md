@@ -1,9 +1,7 @@
 
-Errol Silver
+Errol Silver - Web Developer
 =========
 
-Web Developer
----------------------
 
 | Address            | Contact Info               | 
 |--------------------|----------------------------|
