@@ -5,8 +5,8 @@ Errol Silver - Web Developer
 
 | Address            | Contact Info               | 
 |--------------------|----------------------------|
-| 836 Huntington Ave | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
-| Boston MA, 02115   | [207-307-6475](tel:1-207-307-6475)               |
+| 312 2nd Ave W      | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
+| Seattle WA, 98119  | [207-307-6475](tel:1-207-307-6475)               |
 
 
 Projects
