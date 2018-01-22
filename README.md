@@ -5,16 +5,45 @@ Errol Silver - Web Developer
 
 | Address            | Contact Info               | 
 |--------------------|----------------------------|
-| 836 Huntington Ave | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
-| Boston MA, 02115   | [207-307-6475](tel:1-207-307-6475)               |
+| 312 2nd Ave W      | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
+| Seattle WA, 98119  | [207-307-6475](tel:1-207-307-6475)               |
 
 
 Projects
 -----------
 
-### PennWell Publishing ([hubs.com](https://hubs.com/))
+### Markup ([markupmachine.com](https://markupmachine.com/))
+> #### Co-founder, web development and project work flow consultancy.
+> ##### 05/18 - Ongoing
+> __HTML5, CSS3 (BEM, SASS), Vue.js 2.x, Gulp, Node.js, ES6__
+> 
+> - Established Agile workflow process
+> - Played a major role in making tech stack decisions
+> - Utilized vanilla javascript (ES6) in building primary app functionality
+> - Utilized Vue.js and vanilla javascript to create dynamic project management dashboard
+
+### Harvard Library (library.harvard.edu/)
+> #### Front-end web development.
+> ##### 12/17 - 01/18 --- Velir Studios
+> __HTML5, CSS3 (BEM, SASS), React 16.x, Gulp, Patternlab, Drupal 8__
+> 
+> - Worked in an Agile Scrum methodology
+> - Utilized Patternlab to assist in the creation of a component library deliverable
+> - Utilized Patternlab and React to create rapid prototypes of a dynamic faceted search listing app
+
+### Drexel University - College of Engineering (drexel.edu/engineering)
 > #### Front-end web development and consultancy.
-> ##### 10/15 - 5/16, 9/16 - 1/17 --- Velir Studios
+> ##### 04/17 - 10/17 --- Velir Studios
+> __HTML5, CSS3 (BEM, SASS), React 15.x, Gulp, Patternlab, .NET, Sitecore__
+> 
+> - Utilized Patternlab in the creation of a component library deliverable
+> - Utilized Patternlab and React to create a dynamic faceted search listing app
+> - Worked closely with design in order to close the gap between design handoff deliverables
+> - Worked closely with client to assist in handoff implementations
+
+### PennWell ([hubs.com](https://hubs.com/))
+> #### Front-end web development and consultancy.
+> ##### 10/15 - 05/16, 09/16 - 01/17 --- Velir Studios
 > __HTML5, CSS3 (BEM, SASS), Angular 1.x, Gulp, .NET, Sitecore, Telligent Community__
 > 
 > - Worked in an Agile Scrum methodology (SAFe)
@@ -24,7 +53,7 @@ Projects
 
 ### Clinical Mind (engaugemed.com)
 > #### Front-end web development.
-> ##### 6/16 - 8/16 --- Velir Studios
+> ##### 06/16 - 08/16 --- Velir Studios
 > __HTML5, CSS3 (BEM, SASS), Angular 1.x, Gulp, .NET, Sitecore__
 >
 > - Completed new user registration flow, account management, and user directory
@@ -32,27 +61,6 @@ Projects
 > - Utilized ASP.NET Razor to display static data retrieved from Sitecore
 > - Developed a new set of front-end components
      
-
-### Boston Interactive ([bostoninteractive.com](https://bostoninteractive.com))
-> #### Front-end web development, Drupal Development, AWS configuration.
-> ##### 6/15 - 9/15 --- Boston Interactive
-> __HTML5, CSS3 (SMACCS, SASS), Grunt, jQuery, Drupal 7, AWS EC2, AWS RDS__
->
-> - General Drupal site configuration (Content types, Views, Webforms, Blocks, Regions)
-> - Developed a set of new front-end components
-> - Utilized jQuery to provide interactivity to component presentation
-> - Configured AWS EC2 instance to Drupal 7 requirements.
-> - Utilized RDS for seperate management of Drupal 7 database
-
-### Precision Digital ([predig.com)](https://www.predig.com/)
-> #### Front-end web development, Drupal Development.
-> ##### 6/15 - 9/15 --- Boston Interactive
-> __HTML5, CSS3 (SMACCS, SASS), Grunt, jQuery, Drupal 7, Drupal Commerce__
->
-> - General Drupal site configuration (Content types, Views, Webforms, Blocks, Regions)
-> - Drupal Commerce specific site configuration.
-> - Developed a set of new front-end components
-> - Utilized jQuery to provide interactivity to component presentation
 
 
 Agency History
