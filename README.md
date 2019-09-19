@@ -1,12 +1,12 @@
 
-Errol Silver - Web Developer
+Errol Silver - Frontend Engineer
 =========
 
 
-| Address            | Contact Info               |
-|--------------------|----------------------------|
-| 312 2nd Ave W      | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
-| Seattle WA, 98119  | [207-307-6475](tel:1-207-307-6475)               |
+| Location             | Contact Info                                                    |
+| -------------------- | --------------------------------------------------------------- |
+| Somerville MA, 02143 | [errolsilver@protonmail.com](mailto:errolsilver@protonmail.com) |
+|                      | [207-307-6475](tel:1-207-307-6475)                              |
 
 
 Employment History
@@ -28,13 +28,13 @@ Projects
 ### Cloudzero ([cloudzero.com](https://cloudzero.com/))
 > #### Front-end engineer
 > ##### 04/18 - Ongoing
-> __HTML5, CSS3 (CSS Modules), webpack, React 15.x, React router, Immutable.js, VX, D3, Jest, Mountebank, Remote work__
+> __HTML5, CSS3 (CSS Modules), React 15.x, Typescript, Immutable.js, D3, Jest, Mountebank, Appsync/GraphQL, S3__
 >
-> - Created core application functionality
-> - - Search functionality to display aggregation of AWS resources
+> - Created core product functionality
+> - - Search functionality to display aggregate of AWS resources
 > - - Resource detail page to display highlighted AWS resource information
 > - - AWS cost analysis dashboard including data vizualization of AWS resource cost details
-> - Utilize Jest to unit test code
+> - Utilized Jest to unit test code
 > - Assisted in establishment of coding standards
 
 ### Markup ([markupmachine.com](https://markupmachine.com/))
@@ -43,7 +43,6 @@ Projects
 > __HTML5, CSS3 (BEM, SASS), Vue.js 2.x, Gulp, Node.js, ES6, Remote work__
 >
 > - Established Agile workflow process
-> - Played a major role in making tech stack decisions
 > - Utilized vanilla javascript (ES6) in building primary app functionality
 > - Utilized Vue.js and vanilla javascript to create dynamic project management dashboard
 
