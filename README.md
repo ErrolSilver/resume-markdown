@@ -1,5 +1,5 @@
 
-Errol Silver - Frontend Engineer
+Errol Silver - Senior Front End Engineer
 =========
 
 
@@ -25,7 +25,7 @@ Employment History
 Projects
 -----------
 
-### Cloudzero ([cloudzero.com](https://cloudzero.com/))
+### CloudZero ([cloudzero.com](https://cloudzero.com/))
 > #### Senior Front End Engineer
 > ##### 04/18 - Ongoing
 > __HTML5, CSS3 (CSS Modules, BEM, SASS), React, Typescript__
