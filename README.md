@@ -24,7 +24,7 @@ Employment History
 
 Projects
 -----------
-### CloudZero - [Explorer](https://www.cloudzero.com/platform/explorer/)
+### CloudZero - [Explorer](https://www.cloudzero.com/platform/explorer/) - React, TypeScript, D3, Ag-Grid
 > - Collaborated with Design and Product to deliver a powerful exploratory user interface to demonstrate our ability to ingest large amounts of billing data
 >   - Provided first iteration of various D3 charts and graphics
 >   - Provided first iteration of dynamic filter building capabilities
@@ -35,7 +35,7 @@ Projects
 >   - Authored a comprehensive suite of end-to-end tests to ensure stability of a key feature
 
 
-### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/)
+### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/) - React, Typescript, RxJS
 > - Collaborated with Design and Product to deliver multiple iterations of a Cost Savings Dashboard
 >   - Provided initial iteration of Listing page and Details flyout
 >   - Provided additional iteration migrating Details flyout to a dedicated page
@@ -46,7 +46,7 @@ Projects
 >   - Fleshing out the Cost Savings dashboard with C.R.U.D. capabilities
 >   - Providing the user with information regarding their actualized savings
 
-### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/)
+### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/) - React, Typescript, RxJS
 > - Scoped and led implementation of an incomplete design deliverable
 >   - Broke out deliverable into tickets to formulate a release plan
 >   - During planning, identified gaps in the design deliverable relating to:
@@ -61,7 +61,7 @@ Projects
 >      - Rudimentary C.R.U.D. interfaces
 
 
- ### [Markup](https://www.linkedin.com/company/markupmachine/)
+ ### [Markup](https://www.linkedin.com/company/markupmachine/) - Vue.js
 > - Co-founded a small scale startup to solve a real world frontend developer workflow need
 >   - We identified pain during frontend development caused by a delay in feedback on in-progress development efforts
 >   - Collaborated with co-founder to deliver an application that:
