@@ -42,7 +42,7 @@ Projects
 > - Collaborated with Design and Product to deliver multiple iterations of a Cost Savings Dashboard
 >   - Provided initial iteration of Listing page and Details flyout
 >   - Provided additional iteration migrating Details flyout to dedicated page
->   - Provided a re-branded experience of the feature during a company rebrand
+>   - Provided a rebranded experience of the feature during a company rebrand
 > - Scoped and led implementation of various tweaks and improvements including:
 >   - Adding filtering capabilities, soliciting feedback from users, and improving these capabilities in accordance with user feedback
 >   - Iterating towards seamless navigation between Cost Savings detail pages
