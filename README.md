@@ -21,6 +21,10 @@ Employment History
 >
 > **Sephone Interactive Media - Frontend Dev Intern** --- Bangor ME --- December 2013 - May 2014
 
+Education
+--------------
+> **BSc, Communications Technology** --- Husson University,  Bangor ME --- September 2011 - January 2015
+
 
 Projects
 -----------
@@ -70,8 +74,3 @@ Projects
 >     - Managed these assets and comments as individual projects within a dashboard
 >   - Ultimately failed to capture a meaningful user base in a timely manner, and shut down the application
 >   - Had fun
-
-
-Education
---------------
-> **BSc, Communications Technology** --- Husson University,  Bangor ME --- September 2011 - January 2015
