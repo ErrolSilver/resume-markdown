@@ -39,18 +39,42 @@ Projects
 
 ### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/)
 > __React, Typescript, RXJS__
-> - Insights at CloudZero has gone through many iterations
+> - Collaborated with Design and Product to deliver multiple iterations of a Cost Savings Dashboard
+>   - Provided initial iteration of Listing page and Details flyout
+>   - Provided additional iteration migrating Details flyout to dedicated page
+>   - Provided a re-branded experience of the feature during a company rebrand
+> - Scoped and led implementation of various tweaks and improvements including:
+>   - Adding filtering capabilities, soliciting feedback from users, and improving these capabilities in accordance with user feedback
+>   - Iterating towards seamless navigation between Cost Savings detail pages
+>   - Fleshing out the Cost Savings dashboard with C.R.U.D. capabilities
 
 ### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/)
- __React, Typescript, RXJS__
-> - Lead creation of core product functionality
-> - - Search functionality to display aggregate of AWS resources
+> __React, Typescript, RXJS__
+> - Scoped and led implementation of an incomplete design deliverable
+>   - Broke out deliverable into tickets to formulate a release plan
+>   - During planning, identified gaps in the design deliverable relating to:
+>     - Clarity of UX in various data visualizations
+>     - Lack of C.R.U.D. interfaces
+>     - Easily being able to view the details of each Budget
+>   - Led feedback sessions with customers to bridge gaps in design deliverable where appropriate
+>   - Began work on concretely defined tickets while iterating on problematic areas with Product and Customers
+>      - Budgets Listing with basic visualization
+>      - Historical Budget spend visualizations
+>      - Actual vs Planned spend to date visualization
+>      - Rudimentary C.R.U.D. interfaces
 
 
  ### [Markup](https://www.linkedin.com/company/markupmachine/)
 > __HTML5, CSS3 (BEM, SASS), Vue.js__
 >
-> - Established Agile workflow process
+> - Co-founded a small scale startup to solve a real world frontend developer workflow need
+>   - We identified pain during frontend development caused by a delay in feedback on in-progress development efforts
+>   - Collaborated with co-founder to deliver an application that:
+>     - Captured and stored web assets
+>     - Render these assets with a layer allowing users to drop pins and leave notes on relevant visual surfaces
+>     - Manage these assets and comments as individual projects within a dashboard
+>   - Failed to capture a meaningful user base in a timely manner, and shut down the application
+>   - Had fun
 
 
 Education
