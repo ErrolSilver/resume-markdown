@@ -29,7 +29,7 @@ Projects
 >   - Provided first iteration of various D3 charts and graphics
 >   - Provided first iteration of dynamic filter building capabilities
 > - Maintained the most used feature in the CloudZero platform
->   - Delighted customers by conducting a refactor away from a risky, techdebt riddled charting interface that:
+>   - Delighted customers by conducting a refactor away from a fragile and risky charting interface to a new library that:
 >     - Immediately addressed numerous open requests from high value customers
 >     - Enabled other UI Engineers to more quickly do the same
 >   - Authored a comprehensive suite of end-to-end tests to ensure stability of a key feature
