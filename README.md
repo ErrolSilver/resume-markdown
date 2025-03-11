@@ -25,8 +25,6 @@ Employment History
 Projects
 -----------
 ### CloudZero - [Explorer](https://www.cloudzero.com/platform/explorer/)
-> __React, Typescript, D3, Ag-Charts, Ag-Grid__
->
 > - Collaborated with Design and Product to deliver a powerful exploratory user interface to demonstrate our ability to ingest large amounts of billing data
 >   - Provided first iteration of various D3 charts and graphics
 >   - Provided first iteration of dynamic filter building capabilities
@@ -38,7 +36,6 @@ Projects
 
 
 ### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/)
-> __React, Typescript, RXJS__
 > - Collaborated with Design and Product to deliver multiple iterations of a Cost Savings Dashboard
 >   - Provided initial iteration of Listing page and Details flyout
 >   - Provided additional iteration migrating Details flyout to a dedicated page
@@ -50,7 +47,6 @@ Projects
 >   - Providing the user with information regarding their actualized savings
 
 ### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/)
-> __React, Typescript, RXJS__
 > - Scoped and led implementation of an incomplete design deliverable
 >   - Broke out deliverable into tickets to formulate a release plan
 >   - During planning, identified gaps in the design deliverable relating to:
@@ -66,8 +62,6 @@ Projects
 
 
  ### [Markup](https://www.linkedin.com/company/markupmachine/)
-> __HTML5, CSS3 (BEM, SASS), Vue.js__
->
 > - Co-founded a small scale startup to solve a real world frontend developer workflow need
 >   - We identified pain during frontend development caused by a delay in feedback on in-progress development efforts
 >   - Collaborated with co-founder to deliver an application that:
