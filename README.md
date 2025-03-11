@@ -35,7 +35,7 @@ Projects
 >   - Authored a comprehensive suite of end-to-end tests to ensure stability of a key feature
 
 
-### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/) - React, Typescript, RxJS
+### CloudZero - [Insights](https://www.cloudzero.com/platform/insights/) - React, TypeScript, RxJS
 > - Collaborated with Design and Product to deliver multiple iterations of a Cost Savings Dashboard
 >   - Provided initial iteration of Listing page and Details flyout
 >   - Provided additional iteration migrating Details flyout to a dedicated page
@@ -46,7 +46,7 @@ Projects
 >   - Fleshing out the Cost Savings dashboard with C.R.U.D. capabilities
 >   - Providing the user with information regarding their actualized savings
 
-### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/) - React, Typescript, RxJS
+### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/) - React, TypeScript, RxJS
 > - Scoped and led implementation of an incomplete design deliverable
 >   - Broke out deliverable into tickets to formulate a release plan
 >   - During planning, identified gaps in the design deliverable relating to:
