@@ -50,6 +50,17 @@ Projects
 >   - Fleshing out the Cost Savings dashboard with C.R.U.D. capabilities
 >   - Providing the user with information regarding their actualized savings
 
+### CloudZero - [Optimize](https://www.cloudzero.com/platform/optimize/) - React, TypeScript, RxJS
+> - Led frontend development of cloud cost optimization platform for engineering teams
+>   - Architected and implemented expert-designed cost recommendation interface
+>   - Built enhanced targeting capabilities to surface high-impact savings opportunities
+>   - Developed native integrations with Jira and Slack for seamless workflow adoption
+>   - Implemented gamified engagement features to drive proactive cost optimization
+> - Delivered actionable insights interface enabling engineers to proactively manage cloud costs
+>   - Created multi-cloud environment support with contextual business insights
+>   - Built recommendation engine UI with noise reduction capabilities
+>   - Developed tracking system for realized savings vs theoretical potential
+
 ### CloudZero - [Budgets](https://www.cloudzero.com/solutions/budget-management/) - React, TypeScript, RxJS
 > - Scoped and led implementation of an incomplete design deliverable
 >   - Broke out deliverable into tickets to formulate a release plan
